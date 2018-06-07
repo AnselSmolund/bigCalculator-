@@ -1,0 +1,23 @@
+body{
+  background-color:#6ba0f4;
+}
+input[type="text"]{
+  height: 200px;
+  width: 812px;
+  background: rgba(100,100,100,.5);
+  border: 10px;
+  font-size: 190px;
+  color: black;
+  font-family: Georgia;
+}
+input[type="button"]{
+  border: 1px outset blue;
+  background-color: lightblue;
+  height: 100px;
+  width: 200px;
+  cursor: pointer;
+}
+input[type="button"]:hover{
+  background-color:blue;
+  color:white;
+}
